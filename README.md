@@ -1,0 +1,2 @@
+# genesis
+template app
